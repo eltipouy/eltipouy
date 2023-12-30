@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--Soy un desarrollador de tecnología nacido y criado en Uruguay, que actualmente reside en CDMX - Mexico.
+#<!--Soy un desarrollador de tecnología nacido y criado en Uruguay, que actualmente reside en CDMX - Mexico.
 
 Con estudios en diferentes partes del mundo que se resumen a un Doctorado en Artes Visuales, un Master en Desarrollo y Diseño de Videojuegos y una Licenciatura en Diseño Grafico defino mi profesionalidad en el área Artística. Una Licenciatura en Bioquímica y un Master en Bioinformática Computacional defino mi profesionalidad en el Área Científica.
 

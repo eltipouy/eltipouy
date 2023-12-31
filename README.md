@@ -1,32 +1,30 @@
-### Hi there 👋
+### HOLA 👋
 
 #<!--Soy un desarrollador de tecnología nacido y criado en Uruguay, que actualmente reside en CDMX - Mexico.
 
-🌱 Con estudios en diferentes partes del mundo que se resumen a un Doctorado en Artes Visuales, un Master en Desarrollo y Diseño de Videojuegos y una Licenciatura en Diseño Grafico defino mi profesionalidad en el área Artística. Una Licenciatura en Bioquímica y un Master en Bioinformática Computacional defino mi profesionalidad en el Área Científica.
+Soy un apasionado desarrollador tecnológico nacido en Uruguay y actualmente residiendo en la Ciudad de México.
 
-🔭Empecé 8BITS, web de videojuegos en Uruguay, mientras todavía estaba en la universidad. 8BITS luego se convirtió en el sitio web de noticias y comunidad en línea de videojuegos más grande de Uruguay en el 2012.
+📜 Mi formación abarca un Doctorado en Artes Visuales, un Máster en Desarrollo y Diseño de Videojuegos, y una Licenciatura en Diseño Gráfico, estableciendo mi experiencia en el ámbito artístico. Además, poseo una Licenciatura en Bioquímica y un Máster en Bioinformática Computacional, consolidando mi habilidad en el área científica.
 
-🔭También me hice camino como investigador en el Institut Pasteur de Montevideo, lugar que no solo me dedique a la investigación científica, sino que a la implementación de diferentes proyectos de diseño y desarrollo digital, logrando ser el primer lugar de investigación en Uruguay en la realización de Streaming de sus cursos internacionales.
+📰 Fundé 8BITS, un sitio web de videojuegos en Uruguay que evolucionó para convertirse en la principal plataforma de noticias y comunidad de juegos en 2012. 
+⚗️ También fui investigador en el Institut Pasteurde Montevideo, destacándome en investigación científica y proyectos digitales pioneros.
 
-🔭Mi sed de conocimiento hizo que me trasladara a México, lugar en el cual puedo desarrollar diferentes proyectos digitales así como gamificados.
+✈️ Mi búsqueda de conocimiento me llevó a México, donde colaboré con empresas como Draco Studio, Grupo Salinas, Google, BBVA, y otras.
 
-He trabajado en diferentes empresas como Draco Studio, Grupo Salinas, Google, BBVA, Live 13.5, Coca Cola, Bimbo, Dragon´s Hohles, entre otras.
+🤝 Actualmente, soy Cofundador de LUDENS, una startup enfocada en soluciones empresariales de alta gama, utilizando programación, diseño y gamificación de manera inteligente.
 
-Actualmente soy el Cofundador de LUDENS, una startup de desarrollo de soluciones empresariales de alta gama, en la cual hacemos uso de la programación, el diseño y la gamificación, para ayudar de manera inteligente y elegante a nuestros clientes.
+👨‍⚕️ Cofundé la Escuela Sarandí de Enfermería, una institución innovadora en el campo de la enfermería en Uruguay.
 
-Cofundador de Escuela Sarandí de Enfermería, una escuela innovadora en la enfermería en Uruguay.
+👨‍🏫 Lidero la carrera de Ingeniería de Videojuegos y soy docente en Gamificación, Desarrollo y Marketing en la Universidad ESDIE en México.
 
-Líder de Carrera en la Ingeniería de Videojuegos y docente de Gamification, Desarrollo y Marketing en la Universidad ESDIE en México.
+🎮 En el ámbito de desarrollo de juegos móviles, trabajo como GameDev y Scrum Master en Disney.
 
-GameDev y Scrum Master en el área de desarrollo de juegos móviles de Disney.
+💻 Como desarrollador y PR en Axo Stories, un estudio independiente de renombre en México, contribuyo al desarrollo de juegos de mesa, rol y guerra.
 
-Desarrollador y PR en Axo Stories, un de los más renombrados estudios independiente de desarrollos de Juegos de Mesa, Rol y Guerra en México.
+🎓 Mi formación sólida abarca desarrollo digital, gamificación, programación y producción. Mis habilidades incluyen dirección de proyectos (metodología ágil), desarrollo web, videojuegos, diseño gráfico y UX/UI, así como áreas relacionadas con la generación de contenido y gamificación para diferentes sectores.
 
-Sólida formación en desarrollo digital, Gamification, programación y producción. Mis habilidades incluyen la dirección de proyectos (metodología ágil), desarrollo web, videojuegos, diseño gráfico y UX/UI, áreas relacionadas con medios de generación de contenido y gamificacion para diferentes sectores.
+📚 Soy un apasionado de los videojuegos, juegos de mesa, wargames, cine, cultura japonesa y las últimas tendencias en diseño y desarrollo de comunicación.
 
-⚡Fanático de los videojuegos, boardgames, wargames, cine, cultura japonesa y de las nuevas tendencias en el diseño y desarrollo de comunicación.
-
-☕ Ponte en contacto conmigo para comenzar un proyecto juntos.
-**eltipouy/eltipouy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+☕ ¡Contáctame para iniciar un emocionante proyecto juntos!
+sferreira433@gmail.com | hola@ludens.digital | https://linktr.ee/SEBASFERREIRA
 -->

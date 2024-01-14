@@ -7,13 +7,13 @@
 📰 Fundé 8BITS, un sitio web de videojuegos en Uruguay que evolucionó para convertirse en la principal plataforma de noticias y comunidad de juegos en 2012. 
 ⚗️ También fui investigador en el Institut Pasteurde Montevideo, destacándome en investigación científica y proyectos digitales pioneros.
 
-✈️ Mi búsqueda de conocimiento me llevó a México, donde colaboré con empresas como Draco Studio, Grupo Salinas, Google, BBVA, y otras.
+✈️ Mi búsqueda de conocimiento me llevó a México, donde colaboré con empresas como Draco Studio, Grupo Salinas, Google, BBVA, entre otras.
 
 🤝 Actualmente, soy Cofundador de LUDENS, una startup enfocada en soluciones empresariales de alta gama, utilizando programación, diseño y gamificación de manera inteligente.
 
-👨‍⚕️ Cofundé la Escuela Sarandí de Enfermería, una institución innovadora en el campo de la enfermería en Uruguay.
+👨‍⚕️ Cofundé Escuela Sarandí de Enfermería, una institución innovadora en el campo de la enfermería en Uruguay.
 
-👨‍🏫 Lidero la carrera de Ingeniería de Videojuegos y soy docente en Gamificación, Desarrollo y Marketing en la Universidad ESDIE en México.
+👨‍🏫 Lidero la carrera de Ingeniería de Videojuegos y soy docente en Gamificación, Desarrollo y Diseño en Universidad ESDIE.
 
 🎮 En el ámbito de desarrollo de juegos móviles, trabajo como GameDev y Scrum Master en Disney.
 

@@ -9,11 +9,11 @@
 
 ✈️ Mi búsqueda de conocimiento me llevó a México, donde colaboré con empresas como Draco Studio, Grupo Salinas, Google, BBVA, entre otras.
 
-🤝 Actualmente, soy Cofundador de  [LUDENS](https://www.ludens.digital/), una startup enfocada en soluciones empresariales de alta gama, utilizando programación, diseño y gamificación de manera inteligente.
+🤝 Actualmente, soy Cofundador de [LUDENS](https://www.ludens.digital/), una startup enfocada en soluciones empresariales de alta gama, utilizando programación, diseño y gamificación de manera inteligente.
 
-👨‍⚕️ Cofundé Escuela Sarandí de Enfermería, una institución innovadora en el campo de la enfermería en Uruguay.
+👨‍⚕️ Cofundé [Escuela Sarandí de Enfermería](https://www.enfermeriasarandi.com/), una institución innovadora en el campo de la enfermería en Uruguay.
 
-👨‍🏫 Lidero la carrera de Ingeniería de Videojuegos y soy docente en Gamificación, Desarrollo y Diseño en Universidad ESDIE.
+👨‍🏫 Lidero la carrera de Ingeniería de Videojuegos y soy docente en Gamificación, Desarrollo y Diseño en Universidad [ESDIE](https://esdie.edu.mx/).
 
 🎮 En el ámbito de desarrollo de juegos móviles, trabajo como GameDev y Scrum Master en Disney.
 

@@ -9,7 +9,7 @@
 
 ✈️ Mi búsqueda de conocimiento me llevó a México, donde colaboré con empresas como Draco Studio, Grupo Salinas, Google, BBVA, entre otras.
 
-🤝 Actualmente, soy Cofundador de LUDENS, una startup enfocada en soluciones empresariales de alta gama, utilizando programación, diseño y gamificación de manera inteligente.
+🤝 Actualmente, soy Cofundador de  [LUDENS](https://www.ludens.digital/), una startup enfocada en soluciones empresariales de alta gama, utilizando programación, diseño y gamificación de manera inteligente.
 
 👨‍⚕️ Cofundé Escuela Sarandí de Enfermería, una institución innovadora en el campo de la enfermería en Uruguay.
 

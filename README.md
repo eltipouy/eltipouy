@@ -1,6 +1,6 @@
 ### HOLA 👋
 
-#Soy un apasionado desarrollador tecnológico nacido en Uruguay y actualmente residiendo en la Ciudad de México.
+# Soy un apasionado desarrollador tecnológico nacido en Uruguay y actualmente residiendo en la Ciudad de México.
 
 📜 Mi formación abarca un Doctorado en Artes Visuales, un Máster en Desarrollo y Diseño de Videojuegos, y una Licenciatura en Diseño Gráfico, estableciendo mi experiencia en el ámbito artístico. Además, poseo una Licenciatura en Bioquímica y un Máster en Bioinformática Computacional, consolidando mi habilidad en el área científica.
 

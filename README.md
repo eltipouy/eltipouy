@@ -2,18 +2,21 @@
 
 ### Soy un apasionado desarrollador tecnológico nacido en Uruguay y actualmente residiendo en la Ciudad de México.
 
-📜 Mi formación abarca un Doctorado en Artes Visuales, un Máster en Desarrollo y Diseño de Videojuegos, y una Licenciatura en Diseño Gráfico, estableciendo mi experiencia en el ámbito artístico. Además, poseo una Licenciatura en Bioquímica y un Máster en Bioinformática Computacional, consolidando mi habilidad en el área científica.
+📜 Originario de Uruguay y radicado en Ciudad de México, mi perfil combina formación artística, científica y tecnológica. Cuento con un Doctorado en Artes Visuales, Máster en Desarrollo y Diseño de Videojuegos, Máster en Bioinformática Computacional y licenciaturas en Diseño Gráfico y Bioquímica. Además, he realizado una constante especialización en desarrollo, programación, IA, UX/UI, gestión ágil, gamificación y diseño interactivo.
 
-📰 Fundé 8BITS, un sitio web de videojuegos en Uruguay que evolucionó para convertirse en la principal plataforma de noticias y comunidad de juegos en 2012. 
-⚗️ También fui investigador en el Institut Pasteurde Montevideo, destacándome en investigación científica y proyectos digitales pioneros.
+📰 Fui fundador de 8BITS, la principal comunidad gamer de Uruguay en su época, y trabajé como investigador en el Institut Pasteur de Montevideo, integrando ciencia y tecnología en proyectos digitales pioneros.
 
-✈️ Mi búsqueda de conocimiento me llevó a México, donde colaboré con empresas como Draco Studio, Grupo Salinas, Google, BBVA, entre otras.
+✈️ En México, he colaborado con Google, Bimbo, Actinver, BBVA, Grupo Salinas, KLS, Lair, entre otros. En la industria de videojuegos, actualmente soy Game Developer y Scrum Master en Disney, y desarrollador y PR en Axo Stories, un estudio independiente especializado en juegos de mesa, rol y estrategia. Previamente, trabajé como Game Designer en Draco Studio y Farda, y como Project Manager en Mixer, la plataforma de streaming de Microsoft. También fui asesor estratégico para Ubisoft y Riot Games.
 
-🤝 Actualmente, soy Cofundador de [LUDENS](https://www.ludens.digital/), una startup enfocada en soluciones empresariales de alta gama, utilizando programación, diseño y gamificación de manera inteligente.
+🤝 Soy Cofundador de [LUDENS](https://www.ludens.digital/), un laboratorio boutique que crea plataformas y experiencias digitales para educación y empresas, con foco en innovación, calidad y atención personalizada. Además, cofundé [Escuela Sarandí de Enfermería](https://www.enfermeriasarandi.com/), una institución educativa innovadora en Uruguay., una startup enfocada en soluciones empresariales de alta gama, utilizando programación, diseño y gamificación de manera inteligente.
 
-👨‍⚕️ Cofundé [Escuela Sarandí de Enfermería](https://www.enfermeriasarandi.com/), una institución innovadora en el campo de la enfermería en Uruguay.
+👨‍🏫 Lidero la carrera de Ingeniería en Videojuegos en la Universidad [ESDIE](https://esdie.edu.mx/)., donde también soy docente en gamificación, diseño interactivo y desarrollo de experiencias digitales.
 
-👨‍🏫 Lidero la carrera de Ingeniería de Videojuegos y soy docente en Gamificación, Desarrollo y Diseño en Universidad [ESDIE](https://esdie.edu.mx/).
+Especialidades:
+• Dirección de proyectos digitales y creativos (Scrum, Agile)
+• Desarrollo de plataformas e-learning y soluciones gamificadas
+• UX/UI y diseño de productos interactivos
+• Producción de videojuegos y experiencias inmersivas
 
 🎮 En el ámbito de desarrollo de juegos móviles, trabajo como GameDev y Scrum Master en Disney.
 
@@ -21,7 +24,7 @@
 
 🎓 Mi formación sólida abarca desarrollo digital, gamificación, programación y producción. Mis habilidades incluyen dirección de proyectos (metodología ágil), desarrollo web, videojuegos, diseño gráfico y UX/UI, así como áreas relacionadas con la generación de contenido y gamificación para diferentes sectores.
 
-📚 Soy un apasionado de los videojuegos, juegos de mesa, wargames, cine, cultura japonesa y las últimas tendencias en diseño y desarrollo de comunicación.
+📚 Apasionado por videojuegos, juegos de mesa, cine, cultura japonesa y tendencias tecnológicas.
 
 ☕ ¡Contáctame para iniciar un emocionante proyecto juntos!
 sferreira433@gmail.com | hola@ludens.digital | https://linktr.ee/SEBASFERREIRA

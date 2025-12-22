@@ -1,31 +1,50 @@
-### HOLA 👋
+## 👋 Hola, soy Sebastián Ferreira
 
-### Soy un apasionado desarrollador tecnológico nacido en Uruguay y actualmente residiendo en la Ciudad de México.
+Desarrollador tecnológico y director creativo especializado en el diseño de **plataformas educativas, experiencias gamificadas y productos digitales complejos** para instituciones, empresas y proyectos culturales.
 
-📜 Originario de Uruguay y radicado en Ciudad de México, mi perfil combina formación artística, científica y tecnológica. Cuento con un Doctorado en Artes Visuales, Máster en Desarrollo y Diseño de Videojuegos, Máster en Bioinformática Computacional y licenciaturas en Diseño Gráfico y Bioquímica. Además, he realizado una constante especialización en desarrollo, programación, IA, UX/UI, gestión ágil, gamificación y diseño interactivo.
+Trabajo en la intersección entre **arte, ciencia y tecnología**, combinando visión estratégica, pensamiento creativo y ejecución técnica real para construir soluciones **sólidas, escalables y con impacto**, no demos descartables.
 
-📰 Fui fundador de 8BITS, la principal comunidad gamer de Uruguay en su época, y trabajé como investigador en el Institut Pasteur de Montevideo, integrando ciencia y tecnología en proyectos digitales pioneros.
+---
 
-✈️ En México, he colaborado con Google, Bimbo, Actinver, BBVA, Grupo Salinas, KLS, Lair, entre otros. En la industria de videojuegos, actualmente soy Game Developer y Scrum Master en Disney, y desarrollador y PR en Axo Stories, un estudio independiente especializado en juegos de mesa, rol y estrategia. Previamente, trabajé como Game Designer en Draco Studio y Farda, y como Project Manager en Mixer, la plataforma de streaming de Microsoft. También fui asesor estratégico para Ubisoft y Riot Games.
+### 🧠 Perfil y formación
 
-🤝 Soy Cofundador de [LUDENS](https://www.ludens.digital/), un laboratorio boutique que crea plataformas y experiencias digitales para educación y empresas, con foco en innovación, calidad y atención personalizada. Además, cofundé [Escuela Sarandí de Enfermería](https://www.enfermeriasarandi.com/), una institución educativa innovadora en Uruguay., una startup enfocada en soluciones empresariales de alta gama, utilizando programación, diseño y gamificación de manera inteligente.
+Cuento con formación multidisciplinaria —Doctorado en Artes Visuales, Máster en Desarrollo y Diseño de Videojuegos, Máster en Bioinformática Computacional, y licenciaturas en Diseño Gráfico y Bioquímica— junto a **más de una década de experiencia** liderando proyectos digitales en Latinoamérica y a nivel internacional.
 
-👨‍🏫 Lidero la carrera de Ingeniería en Videojuegos en la Universidad [ESDIE](https://esdie.edu.mx/)., donde también soy docente en gamificación, diseño interactivo y desarrollo de experiencias digitales.
+Mantengo una **formación continua** a través de certificaciones, programas especializados y estudio autodirigido en áreas como desarrollo tecnológico, inteligencia artificial, diseño de producto, UX/UI, gamificación, metodologías ágiles y educación digital, actualizando mis herramientas según los desafíos reales de cada proyecto.
 
-Especialidades:
-• Dirección de proyectos digitales y creativos (Scrum, Agile)
-• Desarrollo de plataformas e-learning y soluciones gamificadas
-• UX/UI y diseño de productos interactivos
-• Producción de videojuegos y experiencias inmersivas
+---
 
-🎮 En el ámbito de desarrollo de juegos móviles, trabajo como GameDev y Scrum Master en Disney.
+### 🎮 Industria, tecnología y productos
 
-💻 Como desarrollador y PR en Axo Stories, un estudio independiente de renombre en México, contribuyo al desarrollo de juegos de mesa, rol y guerra.
+Fui fundador de **8BITS**, una de las principales comunidades gamer de Uruguay, e investigador en el **Institut Pasteur de Montevideo**, integrando ciencia y tecnología en proyectos digitales pioneros.
 
-🎓 Mi formación sólida abarca desarrollo digital, gamificación, programación y producción. Mis habilidades incluyen dirección de proyectos (metodología ágil), desarrollo web, videojuegos, diseño gráfico y UX/UI, así como áreas relacionadas con la generación de contenido y gamificación para diferentes sectores.
+He colaborado con organizaciones como **Google, BBVA, Bimbo, Grupo Salinas, Actinver y Disney**, desempeñándome en roles de desarrollo, dirección creativa, gestión ágil y estrategia digital.
 
-📚 Apasionado por videojuegos, juegos de mesa, cine, cultura japonesa y tendencias tecnológicas.
+En la industria de videojuegos **trabajo y he trabajado** como Game Developer, Game Designer, Scrum Master y Project Manager, participando en estudios y plataformas como **Disney, Microsoft (Mixer), Draco Studio y Farda**.  
+Además, colaboro como **asesor estratégico en proyectos para Ubisoft y Riot Games**, y como **PR en Axo Stories**, integrando desarrollo, gestión y comunicación dentro del ecosistema creativo.
 
-☕ ¡Contáctame para iniciar un emocionante proyecto juntos!
-sferreira433@gmail.com | hola@ludens.digital | https://linktr.ee/SEBASFERREIRA
--->
+---
+
+### 🚀 Emprendimiento y educación
+
+Soy **Cofundador de LUDENS**, un laboratorio boutique dedicado a la creación de plataformas educativas, experiencias gamificadas y soluciones digitales a medida, con foco en calidad, innovación y acompañamiento estratégico real.
+
+En el ámbito académico, **lidero la Ingeniería en Videojuegos en la Universidad ESDIE**, formando profesionales en diseño, desarrollo y gamificación. Participo activamente en la comunidad de desarrolladores y en la **Global Game Jam**, organizando y coordinando sedes que impulsan producción colaborativa y desarrollo de talento.
+
+También soy **Cofundador de Escuela Sarandí de Enfermería**, una institución educativa innovadora en Uruguay enfocada en la profesionalización y transformación del sector.
+
+---
+
+### 🛠️ Áreas de trabajo
+
+- Dirección y gestión de proyectos digitales (Scrum / Agile)
+- Desarrollo de plataformas e-learning y experiencias gamificadas
+- UX/UI y diseño de productos interactivos
+- Producción de videojuegos y experiencias digitales
+
+---
+
+### ☕ Contacto
+
+📩 **sferreira433@gmail.com** | **hola@ludens.digital**  
+🔗 https://linktr.ee/SEBASFERREIRA

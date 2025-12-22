@@ -16,7 +16,7 @@ Mantengo una **formación continua** a través de certificaciones, programas esp
 
 ### 🎮 Industria, tecnología y productos
 
-Fui fundador de **8BITS**, una de las principales comunidades gamer de Uruguay, e investigador en el **Institut Pasteur de Montevideo**, integrando ciencia y tecnología en proyectos digitales pioneros.
+Fui fundador de **[8BITS](https://www.facebook.com/8bitsone)**, una de las principales comunidades gamer de Uruguay, e investigador en el **[Institut Pasteur de Montevideo](https://pasteur.uy/)**, integrando ciencia y tecnología en proyectos digitales pioneros.
 
 He colaborado con organizaciones como **Google, BBVA, Bimbo, Grupo Salinas, Actinver y Disney**, desempeñándome en roles de desarrollo, dirección creativa, gestión ágil y estrategia digital.
 
@@ -27,11 +27,12 @@ Además, colaboro como **asesor estratégico en proyectos para Ubisoft y Riot Ga
 
 ### 🚀 Emprendimiento y educación
 
-Soy **Cofundador de LUDENS**, un laboratorio boutique dedicado a la creación de plataformas educativas, experiencias gamificadas y soluciones digitales a medida, con foco en calidad, innovación y acompañamiento estratégico real.
+Soy **Cofundador de [LUDENS](https://www.ludens.digital/)**, un laboratorio boutique dedicado a la creación de plataformas educativas, experiencias gamificadas y soluciones digitales a medida, con foco en calidad, innovación y acompañamiento estratégico real.
 
-En el ámbito académico, **lidero la Ingeniería en Videojuegos en la Universidad ESDIE**, formando profesionales en diseño, desarrollo y gamificación. Participo activamente en la comunidad de desarrolladores y en la **Global Game Jam**, organizando y coordinando sedes que impulsan producción colaborativa y desarrollo de talento.
+En el ámbito académico, **lidero la Ingeniería en Videojuegos en la [Universidad ESDIE](https://esdie.edu.mx/universidad/licenciatura/ingenieria-en-desarrollo-de-videojuegos/)**, formando profesionales en diseño, desarrollo y gamificación.  
+Participo activamente en la comunidad de desarrolladores y en la **[Global Game Jam – Sede ESDIE](https://globalgamejam.org/jam-sites/2026/esdie)**, organizando y coordinando espacios que impulsan producción colaborativa y desarrollo de talento.
 
-También soy **Cofundador de Escuela Sarandí de Enfermería**, una institución educativa innovadora en Uruguay enfocada en la profesionalización y transformación del sector.
+También soy **Cofundador de [Escuela Sarandí de Enfermería](https://www.enfermeriasarandi.com/)**, una institución educativa innovadora en Uruguay enfocada en la profesionalización y transformación del sector.
 
 ---
 

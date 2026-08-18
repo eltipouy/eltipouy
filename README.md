@@ -1,51 +1,158 @@
-## 👋 Hola, soy Sebastián Ferreira
+# 👋 Hola, soy Sebastián Ferreira
 
-Desarrollador tecnológico y director creativo especializado en el diseño de **plataformas educativas, experiencias gamificadas y productos digitales complejos** para instituciones, empresas y proyectos culturales.
+Construyo productos digitales en la intersección entre **educación, videojuegos, inteligencia artificial y tecnología**, ayudando a empresas, instituciones y organizaciones a transformar ideas complejas en soluciones reales.
 
-Trabajo en la intersección entre **arte, ciencia y tecnología**, combinando visión estratégica, pensamiento creativo y ejecución técnica real para construir soluciones **sólidas, escalables y con impacto**, no demos descartables.
+Soy desarrollador tecnológico, director creativo y estratega digital con más de una década liderando proyectos de software, plataformas educativas, experiencias gamificadas y productos interactivos en Latinoamérica e iniciativas internacionales.
 
----
-
-### 🧠 Perfil y formación
-
-Cuento con formación multidisciplinaria —Doctorado en Artes Visuales, Máster en Desarrollo y Diseño de Videojuegos, Máster en Bioinformática Computacional, y licenciaturas en Diseño Gráfico y Bioquímica— junto a **más de una década de experiencia** liderando proyectos digitales en Latinoamérica y a nivel internacional.
-
-Mantengo una **formación continua** a través de certificaciones, programas especializados y estudio autodirigido en áreas como desarrollo tecnológico, inteligencia artificial, diseño de producto, UX/UI, gamificación, metodologías ágiles y educación digital, actualizando mis herramientas según los desafíos reales de cada proyecto.
+Me interesa construir tecnología que permanezca en el tiempo: **productos robustos, escalables y orientados a generar impacto real**.
 
 ---
 
-### 🎮 Industria, tecnología y productos
+## 🚀 Qué hago
 
-Fui fundador de **[8BITS](https://www.facebook.com/8bitsone)**, una de las principales comunidades gamer de Uruguay, e investigador en el **[Institut Pasteur de Montevideo](https://pasteur.uy/)**, integrando ciencia y tecnología en proyectos digitales pioneros.
+Actualmente diseño y desarrollo soluciones digitales como:
 
-He colaborado con organizaciones como **Google, BBVA, Bimbo, Grupo Salinas, Actinver y Disney**, desempeñándome en roles de desarrollo, dirección creativa, gestión ágil y estrategia digital.
+- 🎓 Plataformas e-learning y LMS personalizados
+- 🎮 Sistemas de gamificación y videojuegos
+- 🤖 Productos basados en Inteligencia Artificial
+- 🌐 Plataformas web y aplicaciones empresariales
+- 📱 Experiencias digitales centradas en UX/UI
+- ⚙️ Arquitectura y estrategia de productos tecnológicos
 
-En la industria de videojuegos **trabajo y he trabajado** como Game Developer, Game Designer, Scrum Master y Project Manager, participando en estudios y plataformas como **Disney, Microsoft (Mixer), Draco Studio y Farda**.  
-Además, colaboro como **asesor estratégico en proyectos para Ubisoft y Riot Games**, y como **PR en Axo Stories**, integrando desarrollo, gestión y comunicación dentro del ecosistema creativo.
-
----
-
-### 🚀 Emprendimiento y educación
-
-Soy **Cofundador de [LUDENS](https://www.ludens.digital/)**, un laboratorio boutique dedicado a la creación de plataformas educativas, experiencias gamificadas y soluciones digitales a medida, con foco en calidad, innovación y acompañamiento estratégico real.
-
-En el ámbito académico, **lidero la Ingeniería en Videojuegos en la [Universidad ESDIE](https://esdie.edu.mx/universidad/licenciatura/ingenieria-en-desarrollo-de-videojuegos/)**, formando profesionales en diseño, desarrollo y gamificación.  
-Participo activamente en la comunidad de desarrolladores y en la **[Global Game Jam – Sede ESDIE](https://globalgamejam.org/jam-sites/2026/esdie)**, organizando y coordinando espacios que impulsan producción colaborativa y desarrollo de talento.
-
-También soy **Cofundador de [Escuela Sarandí de Enfermería](https://www.enfermeriasarandi.com/)**, una institución educativa innovadora en Uruguay enfocada en la profesionalización y transformación del sector.
+Trabajo combinando visión estratégica, dirección de producto y desarrollo técnico, acompañando proyectos desde la idea inicial hasta su implementación.
 
 ---
 
-### 🛠️ Áreas de trabajo
+## 🧠 Perfil
 
-- Dirección y gestión de proyectos digitales (Scrum / Agile)
-- Desarrollo de plataformas e-learning y experiencias gamificadas
-- UX/UI y diseño de productos interactivos
-- Producción de videojuegos y experiencias digitales
+Combino una formación multidisciplinaria en **arte, ciencia, diseño y tecnología** con experiencia práctica desarrollando y dirigiendo productos digitales.
+
+Mi formación incluye:
+
+- 🎓 Doctorado en Artes Visuales
+- 🎮 Máster en Desarrollo y Diseño de Videojuegos
+- 🧬 Máster en Bioinformática Computacional
+- 🎨 Licenciatura en Diseño Gráfico
+- ⚗️ Licenciatura en Bioquímica
+
+Además, mantengo una formación continua en inteligencia artificial, desarrollo de software, arquitectura de sistemas, UX/UI, gamificación, metodologías ágiles y diseño de producto.
 
 ---
 
-### ☕ Contacto
+## 🌎 Experiencia
 
-📩 **sferreira433@gmail.com** | **hola@ludens.digital**  
+A lo largo de mi carrera he participado en proyectos para organizaciones como:
+
+**Google · BBVA · Bimbo · Grupo Salinas · Actinver · Disney**
+
+desarrollando plataformas digitales, productos interactivos, soluciones educativas y proyectos tecnológicos de alto impacto.
+
+Dentro de la industria de videojuegos he trabajado como:
+
+- 🎮 Game Developer
+- 🎨 Game Designer
+- 📋 Scrum Master
+- 🚀 Project Manager
+
+colaborando con estudios y compañías como **Disney, Microsoft (Mixer), Draco Studio y Farda**.
+
+También participo como asesor estratégico en proyectos vinculados a **Ubisoft** y **Riot Games**, además de colaborar como **PR en Axo Stories**, integrando desarrollo, estrategia y comunicación dentro del ecosistema creativo.
+
+---
+
+# 🚀 Proyectos Destacados
+
+## 🟦 LUDENS
+
+Cofundador de **LUDENS**, un estudio boutique especializado en el desarrollo de:
+
+- Plataformas educativas
+- Soluciones e-learning
+- Productos con IA
+- Software empresarial
+- Gamificación
+- Aplicaciones web y móviles
+- Experiencias digitales a medida
+
+Nuestro enfoque combina ingeniería, diseño y estrategia para construir productos digitales sólidos y escalables.
+
+🔗 https://www.ludens.digital/
+
+---
+
+## 🎓 Educación
+
+Actualmente lidero la **Ingeniería en Desarrollo de Videojuegos** en la Universidad ESDIE, donde coordino programas académicos, desarrollo de contenidos, vinculación con la industria y proyectos de innovación educativa.
+
+También organizo la sede ESDIE de la **Global Game Jam**, impulsando espacios colaborativos para la creación de videojuegos.
+
+---
+
+## 🏥 Escuela Sarandí
+
+Cofundador de **Escuela Sarandí de Enfermería**, institución dedicada a la formación de profesionales de la salud mediante metodologías educativas innovadoras y herramientas digitales.
+
+---
+
+# 🛠️ Tecnologías
+
+### Desarrollo
+
+- C#
+- C++
+- JavaScript
+- TypeScript
+- PHP
+- Python
+- SQL
+
+### Frameworks y Plataformas
+
+- Unity
+- Unreal Engine
+- Moodle
+- Laravel
+- Node.js
+- Firebase
+- Supabase
+
+### UX / Producto
+
+- Figma
+- Adobe CC
+- UX/UI
+- Product Design
+- Design Systems
+
+### IA
+
+- OpenAI
+- Claude
+- Gemini
+- ElevenLabs
+- HeyGen
+
+### Gestión
+
+- Scrum
+- Agile
+- Jira
+- Trello
+- Git
+- GitHub
+
+---
+
+# 📫 Contacto
+
+📧 **sferreira433@gmail.com**
+
+📧 **hola@ludens.digital**
+
+🌐 https://www.ludens.digital
+
 🔗 https://linktr.ee/SEBASFERREIRA
+
+---
+
+"Disfruto construir tecnología que resuelva problemas reales, donde la ingeniería, el diseño y la estrategia trabajen como un solo sistema."

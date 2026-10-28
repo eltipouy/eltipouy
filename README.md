@@ -1,4 +1,4 @@
-# 👋 Sebastián Ferreira
+# 👋 Sebastián Ferreira Martinez
 
 ### Software Engineer · Game Developer · Digital Product Strategist · Cofounder de LUDENS
 

@@ -76,7 +76,7 @@ También colaboro como asesor estratégico en proyectos vinculados a **Ubisoft**
 
 # 🚀 Proyectos
 
-## 🚀 LUDENS
+## 🏢 LUDENS
 
 Soy Cofundador de **LUDENS**, un estudio boutique especializado en el desarrollo de:
 
